@@ -1,0 +1,4 @@
+# npm/bower/gulp
+node_modules
+lib
+build

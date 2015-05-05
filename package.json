@@ -1,0 +1,14 @@
+{
+  "name": "romo-garally",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "author": "fuku",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-concat": "^2.5.2",
+    "gulp-uglify": "^1.2.0",
+    "main-bower-files": "^2.7.0"
+  }
+}

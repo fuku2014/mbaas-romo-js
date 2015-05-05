@@ -1,0 +1,21 @@
+{
+  "name": "romo-garally",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ncmb": "http://mb.cloud.nifty.com/assets/sdk/javascript/ncmb-latest.min.js",
+    "JSXTransformer": "http://fb.me/JSXTransformer-0.13.2.js",
+    "react": "^0.13.2",
+    "react-router": "^0.13.3",
+    "jquery":"^1.9.1",
+    "bootstrap": "^3.3.4"
+  }
+}
